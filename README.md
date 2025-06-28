@@ -16,8 +16,10 @@ The site presents Uimarkku as a game developer, musician, and CEO behind Uimarkk
 - Work In Progress — more features coming
 
 ## Links
-- Suport the developer at Uimarkkugames.itch.in
-- Visit the main Website at Uimarkkugames.com
+
+- Support the developer at [Uimarkkugames on itch.io](https://uimarkkugames.itch.io)  
+- Visit the main website at [Uimarkkugames.com](https://uimarkkugames.com)
 
 ## Image
-![Image of the website](https://github.com/UimarkkuGames/Portfolio.Uimarkkugames.com/blob/main/Images/Screenshot1.png)
+
+![Screenshot of the website](https://github.com/UimarkkuGames/Portfolio.Uimarkkugames.com/blob/main/Images/Screenshot1.png)
