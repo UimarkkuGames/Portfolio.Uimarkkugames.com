@@ -18,7 +18,7 @@ The site presents Uimarkku as a game developer, musician, and CEO behind Uimarkk
 ## Links
 
 - Support the developer at [Uimarkkugames on itch.io](https://uimarkkugames.itch.io)  
-- Visit the main website at [Uimarkkugames.com](www.uimarkkugames.com)
+- Visit the main website at [Uimarkkugames.com]([www.uimarkkugames.com](http://www.uimarkkugames.com/))
 
 ## Image
 
