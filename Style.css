@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+:root {
+  --TX: rgb(216, 216, 216);
+  --BG: rgb(21, 14, 24);
+  --PRI: rgb(175, 16, 200);
+  --SEC: rgb(11, 3, 168);
+  --AC: rgb(96, 0, 112);
+	
+}
+
+.Title {
+  color: var(--TX);
+	font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  color: var(--TX);
+font-family: 'Roboto Mono', monospace;
+}
+
+.L {
+  color: var(--TX);
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0; /* reset default margin for ul */
+	font-family: 'Roboto Mono', monospace;
+}
+
+
+footer {
+text-align: center;
+color: var(--PRI);
+	font-family: 'Roboto Mono', monospace;
+}
+
+* {
+  background-color: var(--BG);
+font-family: 'Roboto Mono', monospace;
+}
+
+a {
+  color: var(--PRI); /* or any color you want */
+  text-decoration: none; /* optional: removes underline */
+font-family: 'Roboto Mono', monospace;
+}
+
+a:hover {
+  color: var(--AC);
+  text-decoration: none;
+font-family: 'Roboto Mono', monospace;
+}
